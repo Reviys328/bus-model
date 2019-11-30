@@ -1,0 +1,3 @@
+/home/poiza/clionprjct/laboratornaya_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/poiza/clionprjct/laboratornaya_2/cmake-build-debug/CMakeFiles/laboratornaya_2.dir
+/home/poiza/clionprjct/laboratornaya_2/cmake-build-debug/CMakeFiles/edit_cache.dir

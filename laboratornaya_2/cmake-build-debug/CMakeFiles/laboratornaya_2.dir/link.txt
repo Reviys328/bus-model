@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/laboratornaya_2.dir/main.cpp.o CMakeFiles/laboratornaya_2.dir/man.cpp.o CMakeFiles/laboratornaya_2.dir/passenger.cpp.o CMakeFiles/laboratornaya_2.dir/busStop.cpp.o CMakeFiles/laboratornaya_2.dir/route.cpp.o CMakeFiles/laboratornaya_2.dir/bus.cpp.o  -o laboratornaya_2 
